@@ -1,1 +1,1 @@
-## This is an end to end classical machine learning project.
+## End to End Classical Machine Learning Project.
